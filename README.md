@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=N%C3%A9stor%20Delgado%20—%20GolemTech&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Néstor Delgado</h1>
-<h3 align="center">Backend Engineer | Python, Django & Arquitectura Impulsada por IA</h3>
+<h1 align="center">👋 Hi, I'm Néstor Delgado</h1>
+<h3 align="center">Backend Engineer | Python, Django & AI-Driven Architecture</h3>
 
 <p align="center">
   <a href="https://golemtech.dev"><img src="https://img.shields.io/badge/🌐_golemtech.dev-0d1117?style=for-the-badge" /></a>
@@ -14,17 +14,17 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 
 ```yaml
-rol: Backend Engineer
-experiencia: 5+ años escalando plataformas SaaS B2B
+role: Backend Engineer
+experience: 5+ years scaling SaaS B2B platforms
 stack_base: [Python, Django/DRF, FastAPI, PostgreSQL]
-logros:
-  - 2.9M+ servicios/año con 99.9% de disponibilidad
-  - Migración y unificación de 5 microservicios multi-país
-  - Liderazgo de equipo de 8 ingenieros
-ia_en_desarrollo:
+achievements:
+  - 2.9M+ services/year with 99.9% availability
+  - Migrated & unified 5 microservices across multiple countries
+  - Led a team of 8 engineers
+ai_in_dev:
   - Spec-Driven Development (SDD)
   - TDD / BDD
   - AI Agentic Workflows
@@ -32,13 +32,38 @@ ia_en_desarrollo:
   - Context Engineering & Skills Catalogs
 ```
 
-Ingeniero Electrónico de la UNISANGIL. +5 años construyendo plataformas SaaS B2B a escala — backend con Python (Django/DRF, FastAPI), PostgreSQL, microservicios, eventos y alta disponibilidad.
+Electronic Engineer from UNISANGIL. 5+ years building SaaS B2B platforms at scale — backend with Python (Django/DRF, FastAPI), PostgreSQL, microservices, event-driven architecture and high availability.
 
-Me mueve diseñar sistemas que sean mantenibles, resilientes y que resuelvan problemas reales. Integro IA en el proceso de desarrollo (Spec-Driven Development, TDD/BDD, AI agentic workflows, MCP) como una herramienta más para llegar a mejor código, más rápido.
+I care deeply about designing systems that are maintainable, resilient, and solve real problems. I integrate AI into the development process (Spec-Driven Development, TDD/BDD, AI agentic workflows, MCP) as a tool to reach better code, faster.
+
+<details>
+  <summary><b>🇪🇸 Versión en español</b></summary>
+  <br>
+
+  ```yaml
+  rol: Backend Engineer
+  experiencia: 5+ años escalando plataformas SaaS B2B
+  stack_base: [Python, Django/DRF, FastAPI, PostgreSQL]
+  logros:
+    - 2.9M+ servicios/año con 99.9% de disponibilidad
+    - Migración y unificación de 5 microservicios multi-país
+    - Liderazgo de equipo de 8 ingenieros
+  ia_en_desarrollo:
+    - Spec-Driven Development (SDD)
+    - TDD / BDD
+    - AI Agentic Workflows
+    - AI-assisted development via MCP
+    - Context Engineering & Skills Catalogs
+  ```
+
+  Ingeniero Electrónico de la UNISANGIL. +5 años construyendo plataformas SaaS B2B a escala — backend con Python (Django/DRF, FastAPI), PostgreSQL, microservicios, eventos y alta disponibilidad.
+
+  Me mueve diseñar sistemas que sean mantenibles, resilientes y que resuelvan problemas reales. Integro IA en el proceso de desarrollo (Spec-Driven Development, TDD/BDD, AI agentic workflows, MCP) como una herramienta más para llegar a mejor código, más rápido.
+</details>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 #### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
@@ -47,26 +72,26 @@ Me mueve diseñar sistemas que sean mantenibles, resilientes y que resuelvan pro
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=fff)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=fff)
 
-#### Bases de Datos & Mensajería
+#### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=fff)
 
-#### Infraestructura & DevOps
+#### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![HAProxy](https://img.shields.io/badge/HAProxy-000?style=flat&logo=haproxy&logoColor=fff)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=fff)
 
-#### Herramientas & Metodologías
+#### Tools & Methodologies
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 ![DDD](https://img.shields.io/badge/DDD-0052CC?style=flat&logo=databricks&logoColor=fff)
 ![Clean Arch](https://img.shields.io/badge/Clean_Arch-6C47FF?style=flat&logo=architecture&logoColor=fff)
 
-#### IA en el Desarrollo
+#### AI in Development
 ![SDD](https://img.shields.io/badge/SDD-0d1117?style=flat&logo=openai&logoColor=fff)
 ![TDD](https://img.shields.io/badge/TDD/BDD-0d1117?style=flat&logo=jest&logoColor=fff)
 ![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat&logo=matrix&logoColor=fff)
@@ -74,24 +99,47 @@ Me mueve diseñar sistemas que sean mantenibles, resilientes y que resuelvan pro
 
 ---
 
-### ⚡ Arquitectura & Enfoque
+### ⚡ Architecture & Approach
 
 <details>
-  <summary><b>🧠 Filosofía técnica</b></summary>
+  <summary><b>🧠 Technical philosophy</b></summary>
   <br>
-  
-  - **Domain-Driven Design** para modelar microservicios que reflejen el negocio
-  - **Event-Driven Architecture** con patrones de resiliencia (circuit breaker, retry, bulkhead)
-  - **Clean Architecture** que mantenga el dominio aislado de infraestructura
-  - **Spec-Driven Development** como puente entre especificación e implementación
-  - **AI-assisted development** como multiplicador — nunca como reemplazo del criterio técnico
+
+  - **Domain-Driven Design** to model microservices that reflect the business
+  - **Event-Driven Architecture** with resilience patterns (circuit breaker, retry, bulkhead)
+  - **Clean Architecture** keeping the domain isolated from infrastructure
+  - **Spec-Driven Development** as the bridge between specification and implementation
+  - **AI-assisted development** as a multiplier — never a replacement for technical judgment
 </details>
 
 <details>
   <summary><b>🏠 Homelab</b></summary>
   <br>
-  
-  Mi laboratorio personal donde experimento con infraestructura, automatización y despliegues. Todo lo que aprendo ahí lo llevo a producción.
+
+  My personal lab where I experiment with infrastructure, automation, and deployments. Everything I learn there goes into production.
+</details>
+
+<details>
+  <summary><b>🇪🇸 Arquitectura y enfoque</b></summary>
+  <br>
+
+  <details>
+    <summary>🧠 Filosofía técnica</summary>
+    <br>
+
+    - **Domain-Driven Design** para modelar microservicios que reflejen el negocio
+    - **Event-Driven Architecture** con patrones de resiliencia (circuit breaker, retry, bulkhead)
+    - **Clean Architecture** que mantenga el dominio aislado de infraestructura
+    - **Spec-Driven Development** como puente entre especificación e implementación
+    - **AI-assisted development** como multiplicador — nunca como reemplazo del criterio técnico
+  </details>
+
+  <details>
+    <summary>🏠 Homelab</summary>
+    <br>
+
+    Mi laboratorio personal donde experimento con infraestructura, automatización y despliegues. Todo lo que aprendo ahí lo llevo a producción.
+  </details>
 </details>
 
 ---
@@ -113,7 +161,7 @@ Me mueve diseñar sistemas que sean mantenibles, resilientes y que resuelvan pro
 
 ---
 
-### 🤝 Conectemos
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://golemtech.dev"><img src="https://img.shields.io/badge/🌐_Web-golemtech.dev-0d1117?style=for-the-badge" /></a>
