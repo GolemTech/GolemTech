@@ -32,7 +32,7 @@ ia_en_desarrollo:
   - Context Engineering & Skills Catalogs
 ```
 
-Soy Ingeniero Electrónico de la UNISANGIL, ex **Tech Lead** en **Quick Help SAS**, donde lideré la estrategia tecnológica de una plataforma logística en expansión a múltiples países. Actualmente en búsqueda activa de nuevos desafíos — me apasiona construir sistemas robustos, escalables y bien diseñados, combinando lo mejor de la arquitectura de software clásica con el poder de la IA como herramienta de desarrollo.
+Soy Ingeniero Electrónico de la UNISANGIL, actualmente en búsqueda activa de nuevos desafíos como Backend Engineer. Me apasiona construir sistemas robustos, escalables y bien diseñados, combinando lo mejor de la arquitectura de software clásica con el poder de la IA como herramienta de desarrollo.
 
 ---
 
