@@ -32,7 +32,9 @@ ia_en_desarrollo:
   - Context Engineering & Skills Catalogs
 ```
 
-Soy Ingeniero Electrónico de la UNISANGIL, actualmente en búsqueda activa de nuevos desafíos como Backend Engineer. Me apasiona construir sistemas robustos, escalables y bien diseñados, combinando lo mejor de la arquitectura de software clásica con el poder de la IA como herramienta de desarrollo.
+Ingeniero Electrónico de la UNISANGIL. +5 años construyendo plataformas SaaS B2B a escala — backend con Python (Django/DRF, FastAPI), PostgreSQL, microservicios, eventos y alta disponibilidad.
+
+Me mueve diseñar sistemas que sean mantenibles, resilientes y que resuelvan problemas reales. Integro IA en el proceso de desarrollo (Spec-Driven Development, TDD/BDD, AI agentic workflows, MCP) como una herramienta más para llegar a mejor código, más rápido.
 
 ---
 
